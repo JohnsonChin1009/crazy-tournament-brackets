@@ -1,0 +1,26 @@
+{
+  "name": "crazy-tournament-brackets",
+  "version": "1.0.0",
+  "description": "this package helps to build tournament brackets that are modifiable using tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnsonChin1009/crazy-tournament-brackets.git"
+  },
+  "keywords": [
+    "tournament-brackets",
+    "react-brackets",
+    "brackets",
+    "single-elimination",
+    "double-elimination"
+  ],
+  "author": "Johnson Chin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnsonChin1009/crazy-tournament-brackets/issues"
+  },
+  "homepage": "https://github.com/JohnsonChin1009/crazy-tournament-brackets#readme"
+}
